@@ -32,3 +32,10 @@ body.gallery-page ul.gallery img {
   width: 100%;
   border-radius: 8px;
 }
+
+body.gallery-page ul.gallery,
+body.gallery-page ul.gallery li {
+  list-style: none !important;
+  margin: 0;
+  padding: 0;
+}
